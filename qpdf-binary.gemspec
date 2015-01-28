@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "qpdf-binary"
-  spec.version       = '5.1.4'
+  spec.version       = '5.1.4.1'
   spec.authors       = ["Michael Brung"]
   spec.email         = ["mbrung@gmail.com"]
   spec.summary       = %q{Provides the QPDF binary for use on a PaaS}
